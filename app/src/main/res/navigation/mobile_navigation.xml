@@ -22,4 +22,9 @@
         android:name="com.personal.shopleast.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+    <fragment
+        android:id="@+id/nav_dishcreator"
+        android:name="com.personal.shopleast.ui.dishcreator.DishCreatorFragment"
+        android:label="@string/menu_dishcreator"
+        tools:layout="@layout/fragment_dishcreator" />
 </navigation>
