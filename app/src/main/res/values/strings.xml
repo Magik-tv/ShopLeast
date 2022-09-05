@@ -11,4 +11,9 @@
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
     <string name="menu_dishcreator">Dish Creator</string>
+
+    <string name="dish_name">Dish name</string>
+    <string name="product_list">List of products:</string>
+    <string name="product_add">Add product</string>
+    <string name="save">Save</string>
 </resources>
